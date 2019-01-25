@@ -1,2 +1,1 @@
-# devops-scripts
-List of devops scripts/configurations used to manage various tools
+#Kafka Connect - Debezium MySQL Source Connector Demo
