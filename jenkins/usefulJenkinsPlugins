@@ -1,0 +1,74 @@
+AnsiColor - Adds ANSI coloring to the Console Output
+Blue Ocean - BlueOcean Aggregator
+Blue Ocean Pipeline Editor - The Blue Ocean Pipeline Editor is the simplest way for anyone wanting to get started with creating Pipelines in Jenkins
+	
+Build Monitor View - Provides a highly visible view of the status of selected Jenkins jobs. It easily accommodates different computer screen sizes and is ideal as an Extreme Feedback Device to be displayed on a screen on your office wall.
+
+	
+Cobertura Plugin - This plugin integrates Cobertura coverage reports to Jenkins.
+
+Dependency Analyzer Plugin - This plugin search for the depency:analyze results into the maven build output and summarize it.
+
+Docker Pipeline - Build and use Docker containers from pipelines.
+
+Email Extension Template Plugin - This plugin allows administrators to create global templates for the Extended Email Publisher.
+embeddable-build-status - This plugin adds the embeddable build status badge to Jenkins so that you can easily hyperlink/show your build status from elsewhere.
+
+	
+Git plugin - This plugin integrates Git with Jenkins.
+
+Git Parameter Plug-In - Adds ability to choose branches, tags or revisions from git repositories configured in project.
+Git Pipeline for Blue Ocean - BlueOcean Git SCM pipeline creator
+
+Gitlab Merge Request Builder - Integrates Jenkins with Gitlab to build Merge Requests
+
+GitLab Plugin - This plugin allows GitLab to trigger Jenkins builds and display their results in the GitLab UI.
+
+Gradle Plugin - This plugin allows Jenkins to invoke Gradle build scripts directly.
+
+Groovy Plugin 
+
+HTML Publisher plugin - This plugin publishes HTML reports.
+
+	
+JaCoCo plugin - This plugin integrates JaCoCo code coverage reports to Jenkins.
+
+JIRA Integration for Blue Ocean 
+
+JIRA plugin - This plugin integrates Jenkins to Atlassian JIRA.
+
+	
+Job DSL - This plugin allows Jobs and Views to be defined via DSLs
+
+Join plugin - Triggering a job after a group of jobs finish
+
+JUnit Plugin - Allows JUnit-format test results to be published.
+
+	
+Mailer Plugin - This plugin allows you to configure email notifications for build results
+
+Maven Release Plug-in Plug-in - A plug-in that enables you to perform releases using the maven-release-plugin from Jenkins.
+
+Multibranch Job Tear Down Plugin - This plugin only works with Multibranch pipeline projects. When a particular branch is delete this plugin will trigger another job with the `git_url` and `branch_name` of the job being deleted. This way you can perform any cleanup you desired like bringing down servers. By default this plugin looks for a job called `job-tear-down-executor`. Or you may use the `branchTearDownExecutor` to configure it for your project
+
+Nexus Platform Plugin - This plugin integrates Sonatype Nexus to Jenkins.
+
+OWASP Markup Formatter Plugin - Uses the OWASP Java HTML Sanitizer to allow safe-seeming HTML markup to be entered in project descriptions and the like.
+
+Pipeline: Declarative - An opinionated, declarative Pipeline.
+	
+Pipeline: Multibranch  - Enhances Pipeline plugin to handle branches better by automatically grouping builds from different branches.
+
+Publish Over SSH - Send build artifacts over SSH
+
+Static Analysis Utilities - This plug-in provides utilities for the static code analysis plug-ins.
+
+	
+Throttle Concurrent Builds Plug-in - This plugin allows for throttling the number of concurrent builds of a project running per node or globally.
+
+Violation Comments to GitLab Plugin - Finds violations reported by code analyzers and comments GitLab merge requests with them.
+
+Violations plugin - This plugin does reports on checkstyle, csslint, pmd, cpd, fxcop, pylint, jcReport, findbugs, and perlcritic violations.
+
+Workspace Cleanup Plugin - This plugin deletes the project workspace when invoked.
+
