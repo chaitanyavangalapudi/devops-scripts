@@ -3,7 +3,6 @@ Blue Ocean - BlueOcean Aggregator
 Blue Ocean Pipeline Editor - The Blue Ocean Pipeline Editor is the simplest way for anyone wanting to get started with creating Pipelines in Jenkins
 	
 Build Monitor View - Provides a highly visible view of the status of selected Jenkins jobs. It easily accommodates different computer screen sizes and is ideal as an Extreme Feedback Device to be displayed on a screen on your office wall.
-
 	
 Cobertura Plugin - This plugin integrates Cobertura coverage reports to Jenkins.
 
@@ -14,7 +13,6 @@ Docker Pipeline - Build and use Docker containers from pipelines.
 Email Extension Template Plugin - This plugin allows administrators to create global templates for the Extended Email Publisher.
 embeddable-build-status - This plugin adds the embeddable build status badge to Jenkins so that you can easily hyperlink/show your build status from elsewhere.
 
-	
 Git plugin - This plugin integrates Git with Jenkins.
 
 Git Parameter Plug-In - Adds ability to choose branches, tags or revisions from git repositories configured in project.
@@ -30,21 +28,18 @@ Groovy Plugin
 
 HTML Publisher plugin - This plugin publishes HTML reports.
 
-	
 JaCoCo plugin - This plugin integrates JaCoCo code coverage reports to Jenkins.
 
 JIRA Integration for Blue Ocean 
 
 JIRA plugin - This plugin integrates Jenkins to Atlassian JIRA.
 
-	
 Job DSL - This plugin allows Jobs and Views to be defined via DSLs
 
 Join plugin - Triggering a job after a group of jobs finish
 
 JUnit Plugin - Allows JUnit-format test results to be published.
 
-	
 Mailer Plugin - This plugin allows you to configure email notifications for build results
 
 Maven Release Plug-in Plug-in - A plug-in that enables you to perform releases using the maven-release-plugin from Jenkins.
@@ -63,7 +58,6 @@ Publish Over SSH - Send build artifacts over SSH
 
 Static Analysis Utilities - This plug-in provides utilities for the static code analysis plug-ins.
 
-	
 Throttle Concurrent Builds Plug-in - This plugin allows for throttling the number of concurrent builds of a project running per node or globally.
 
 Violation Comments to GitLab Plugin - Finds violations reported by code analyzers and comments GitLab merge requests with them.
