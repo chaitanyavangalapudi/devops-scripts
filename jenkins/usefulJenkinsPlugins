@@ -56,6 +56,10 @@ Pipeline: Multibranch  - Enhances Pipeline plugin to handle branches better by a
 
 Publish Over SSH - Send build artifacts over SSH
 
+SSH Credentials Plugin - Allows storage of SSH credentials in Jenkins
+
+Credentials Binding - Allows credentials to be bound to environment variables for use from miscellaneous build steps.
+
 Static Analysis Utilities - This plug-in provides utilities for the static code analysis plug-ins.
 
 Throttle Concurrent Builds Plug-in - This plugin allows for throttling the number of concurrent builds of a project running per node or globally.
@@ -66,3 +70,6 @@ Violations plugin - This plugin does reports on checkstyle, csslint, pmd, cpd, f
 
 Workspace Cleanup Plugin - This plugin deletes the project workspace when invoked.
 
+NodeJS -  NodeJS Plugin executes NodeJS script as a build step
+
+SSH Pipeline Steps - SSH Pipeline Steps plugin
