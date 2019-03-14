@@ -1,0 +1,8 @@
+#!/usr/bin/expect -f
+set timeout 120
+eval spawn ssh -o StrictHostKeyChecking=no test@localhost
+expect "*?assword:*"
+send -- "test\r"
+expect "*localhost*"
+send -- "ls -ltr\r"
+interact
